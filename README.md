@@ -16,7 +16,9 @@ npm add @types/googlemaps
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
 We can also do production build and run as follows
+
 ng build --configuration production
 ng serve --configuration production
 ## Running unit tests
