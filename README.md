@@ -9,18 +9,17 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-Used below additional steps to install googlemaps and pwa dependencies
-npm add @angular/pwa
-npm add @types/googlemaps
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`. <br/>
+Used below additional steps to install googlemaps and pwa dependencies <br/>
+npm add @angular/pwa <br/>
+npm add @types/googlemaps <br/>
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. <br/>
+We can also do production build and run as follows <br/>
 
-We can also do production build and run as follows
-
-ng build --configuration production
-ng serve --configuration production
+ng build --configuration production <br/>
+ng serve --configuration production <br/>
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
