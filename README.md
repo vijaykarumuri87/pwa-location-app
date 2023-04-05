@@ -10,7 +10,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`. <br/>
-Used below additional steps to install googlemaps and pwa dependencies <br/>
+Used below additional steps to install googlemaps and pwa modules <br/>
 npm add @angular/pwa <br/>
 npm add @types/googlemaps <br/>
 ## Build
